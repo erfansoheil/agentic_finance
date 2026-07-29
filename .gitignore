@@ -3,5 +3,5 @@
 config.json
 /price_retrieval/jsonl_files/
 /price_retrieval/dataset/
-
+/price_retrieval/models
 .vscode
